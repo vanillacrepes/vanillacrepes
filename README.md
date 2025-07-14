@@ -1,8 +1,8 @@
-Hi hi~
+Hi !
 
 I'm a dumbass with a keyboard.
 
-Please send help
+ephemera / vanillacrepes / str4wberrycrepes
 
 **Stats**
 
