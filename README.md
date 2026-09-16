@@ -14,6 +14,6 @@ you might know me as ephemera / vanillacrepes
 
 # Stats
 
-![Stats](./profile/stats.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=vanillacrepes&custom_title=xoxo%20%3C3&show_icons=true&include_all_commits=true&theme=date_night)](https://github-stats-extended.vercel.app/api?username=vanillacrepes&custom_title=xoxo%20%3C3&show_icons=true&include_all_commits=true&theme=date_night)
 
-![Top Languages](./profile/top-langs.svg)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=vanillacrepes&langs_count=4&theme=date_night)](https://github-stats-extended.vercel.app/api/top-langs?username=vanillacrepes&langs_count=4&theme=date_night)
